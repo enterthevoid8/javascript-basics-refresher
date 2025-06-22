@@ -1,3 +1,3 @@
 # javascript-basics-refresher
 
-Fundamental examples and methods of javascript data types.
+Most commonly and frequenelty used methods and examples of javascript data types.
